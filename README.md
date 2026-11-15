@@ -21,6 +21,10 @@ My view is simple. Most AI projects in the region don't fail because of the mode
 - **Agentic AI in production:** multi-agent decision support with rule engines, audit trails and role-based redaction, built for regulated environments
 - **BI and analytics:** turning operational systems into decisions leaders actually use
 
+## Open source
+
+- **[Gulf Text-to-SQL Bench](https://github.com/usmanbilytica/arabic-text-to-sql-bench):** can an LLM turn the same business question into correct SQL when it's asked in English, Modern Standard Arabic or Gulf dialect? 30 questions × 3 variants over a Saudi public-sector database, scored by execution accuracy. Contributions from Gulf Arabic speakers are welcome.
+
 ## Products and ventures
 
 | | |
