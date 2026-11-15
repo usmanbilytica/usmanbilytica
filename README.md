@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/usmanahmad"><img src="https://img.shields.io/badge/LinkedIn-Usman%20Ahmad-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://bilytica.sa"><img src="https://img.shields.io/badge/Bilytica-bilytica.sa-1a1a2e?style=flat" alt="Bilytica"/></a>
   <a href="https://huggingface.co/usmanbilytica"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-usmanbilytica-FFD21E?style=flat" alt="Hugging Face"/></a>
+  <a href="https://www.kaggle.com/usmanahmad"><img src="https://img.shields.io/badge/Kaggle-usmanahmad-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="https://github.com/bilytica"><img src="https://img.shields.io/badge/GitHub-@bilytica-181717?style=flat&logo=github" alt="Bilytica on GitHub"/></a>
 </p>
 
@@ -24,7 +25,7 @@ My view is simple. Most AI projects in the region don't fail because of the mode
 
 ## Open source
 
-- **[Gulf Text-to-SQL Bench](https://github.com/usmanbilytica/arabic-text-to-sql-bench):** can an LLM turn the same business question into correct SQL when it's asked in English, Modern Standard Arabic or Gulf dialect? 30 questions × 3 variants over a Saudi public-sector database, scored by execution accuracy. Also on [Hugging Face](https://huggingface.co/datasets/usmanbilytica/gulf-text-to-sql-bench). Contributions from Gulf Arabic speakers are welcome.
+- **[Gulf Text-to-SQL Bench](https://github.com/usmanbilytica/arabic-text-to-sql-bench):** can an LLM turn the same business question into correct SQL when it's asked in English, Modern Standard Arabic or Gulf dialect? 30 questions × 3 variants over a Saudi public-sector database, scored by execution accuracy. Also on [Hugging Face](https://huggingface.co/datasets/usmanbilytica/gulf-text-to-sql-bench), and as a [Kaggle dataset](https://www.kaggle.com/datasets/usmanahmad/gulf-text-to-sql-bench-arabic-and-gulf-dialect) and [Kaggle Benchmarks task](https://www.kaggle.com/benchmarks/tasks/usmanahmad/gulf-text-to-sql) for comparing leading AI models. Contributions from Gulf Arabic speakers are welcome.
 
 ## Products and ventures
 
